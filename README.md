@@ -1,4 +1,3 @@
-
 <div class="center"><img src="https://i.pinimg.com/originals/dd/01/a1/dd01a1ef021bcf2c7d8e9e9d391d2910.png" height="400px" width="600px" ></div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Samitha</h1>
@@ -72,7 +71,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/samitha-athurupana-776528204/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/samithaath/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/samithaathurup2/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/sa_mi_tha/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
