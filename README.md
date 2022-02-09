@@ -62,7 +62,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/samitha1998/github-readme-activity-graph"><img alt="samitha1998's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=samitha1998&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/samitha1998/github-readme-activity-graph"><img alt="samitha1998's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=samitha1998&bg_color=060A0CD0&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
