@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://aman363.github.io/portfolio/img/banner.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2ktCd5CKWR0-khVn4hfCZ1YLQOdkPRV5qQ&usqp=CAU" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Samitha</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
