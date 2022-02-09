@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/2463540/screenshots/6540901/programmer_4x.png?compress=1&resize=200x130" height="175px"/></a>
+<a href="#"><img width="100%"https://media.istockphoto.com/vectors/working-at-home-vector-flat-style-illustration-online-career-space-vector-id1241710727?k=20&m=1241710727&s=170667a&w=0&h=4640KsOHuBXrZNwxu75K0na1rFzPqzneYvjp2Bze31M=" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Samitha</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
