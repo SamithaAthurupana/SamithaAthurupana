@@ -1,6 +1,8 @@
-<h1 align="center">I'm Samitha</h1>
+<h1 align="center">Hello, I'm Samitha</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
 
+## My Coding Activities
+<img src="https://github.com/avinal/samitha1998/README.md/main/images/stat.svg" alt="My Activities"/>
 
 ## 🙋‍♂️ About Me
 
