@@ -3,7 +3,6 @@
 
 
 <img src="https://github.com/<samitha1998>/<README.md>/blob/<master>/images/stat.svg" alt="Alternative Text"/>
-<img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 
 ## 🙋‍♂️ About Me
 
