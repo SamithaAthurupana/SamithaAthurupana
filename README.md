@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Samitha</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
 
-## My Coding Activities
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samitha1998)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🙋‍♂️ About Me
 
