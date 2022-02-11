@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
 
 ## My Coding Activities
-<img src="https://github.com/avinal/samitha1998/README.md/main/images/stat.svg" alt="My Activities"/>
+[![Samitha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samitha1998)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🙋‍♂️ About Me
 
