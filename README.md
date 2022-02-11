@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **["Happy-Chat" android chat app ](https://#/)**
+- 🔭 I’m currently working on **["AI-Radio" Flutter app ](https://#/)**
 
 - 🌱 I’m currently learning **Android Development**
 
