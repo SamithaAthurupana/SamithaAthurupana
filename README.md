@@ -1,5 +1,8 @@
-<h1 align="center">Hello, I'm Samitha</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
+<h3 align="center">
+  Welcome to Samitha's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Full-stack+web+%26+app+developer;Experienced+UI+%26+UX+Designer;Open+Source+contributions;Always+learning+new+things)](https://git.io/typing-svg)
 
 
 ## 🙋‍♂️ About Me
