@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **["AI-Radio" Flutter app ](https://#/)**
 
-- 🌱 I’m currently learning **Flutter Development**
+- 🌱 I’m currently learning **ISO Application Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
