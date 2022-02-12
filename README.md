@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<a href="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21&center=true&vCenter=true&lines=Full-stack+web+%26+app+developer;Experienced+UI+%26+UX+Designer;Open+Source+contributions;Always+learning+new+things></a>
+
 
 
 ## 🙋‍♂️ About Me
