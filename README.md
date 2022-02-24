@@ -46,13 +46,13 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samitha1998&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamithaAthurupana&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/samitha1998/github-readme-stats"><img alt="samitha1998's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samitha1998&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
-  <a href="https://github.com/samitha1998/github-readme-stats"><img alt="samitha1998's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samitha1998&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0"/></a>
+    <a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamithaAthurupana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
+  <a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamithaAthurupana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -60,7 +60,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/samitha1998/github-readme-activity-graph"><img alt="samitha1998's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=samitha1998&bg_color=060A0CD0&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SamithaAthurupana/github-readme-activity-graph"><img alt="SamithaAthurupana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SamithaAthurupana&bg_color=060A0CD0&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -76,7 +76,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/samitha1998/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=samitha1998">
+<a href="https://github.com/SamithaAthurupana/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SamithaAthurupana">
 </a>
-<a href="https://github.com/samitha1998?tab=followers"><img src="https://img.shields.io/github/followers/samitha1998?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/SamithaAthurupana?tab=followers"><img src="https://img.shields.io/github/followers/SamithaAthurupana?label=Followers&style=social" alt="GitHub Badge"></a>
