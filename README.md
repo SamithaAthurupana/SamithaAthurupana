@@ -8,9 +8,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **["AI-Radio" Flutter app ](https://#/)**
+- 🔭 I’m currently working on **["Cloud Based MERN Stack E-commerce Web Store for UI UX Products Resell"](https://#/)**
 
-- 🌱 I’m currently learning **ISO Application Development**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
