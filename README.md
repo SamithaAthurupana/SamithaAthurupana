@@ -5,7 +5,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<h3 align="center">Connect with me</h3>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/samithaath/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,36 +13,25 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-### My Github Stats
-
-[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=SamithaAthurupana&row=1&column=3&theme=oldie)](https://git.io/streak-stats)<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamithaAthurupana&show_icons=true&count_private=true&theme=tokyonight_duo)](https://git.io/streak-stats)  <br/>
-
-<a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamithaAthurupana&show_icons=true&count_private=true&bg_color=f0f8ff" /></a> <br/>
-
-  <a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamithaAthurupana&langs_count=8&count_private=true&layout=compact&bg_color=f0f8ff"/></a>
-  <br/>
-
+	
 <!-- Activity graph -->
 <p align="center">
 <a href="#go-nowhere">
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=SamithaAthurupana&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Samitha's monthly coding activity" />
 </a>
 </p>
-
-### Views and Followers
+</div>
+<div align="center" id="views">	
+<h3 align="center">Views and Followerse</h3>
 <a href="https://github.com/SamithaAthurupana/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SamithaAthurupana">
-</a>
-
+</a>	
+</div>
 <hr />
-
 <details align="center">
   <summary align="center"><h3 style="display: inline;">Who am I?<h3></summary>
 	<p align="center">
-		Hello, my name is Samitha Athurupana, and I was born and raised in Sri Lanka. I'm a final-year Information Technology student at Rathmalana's General Sir John Kotelawala Defence University. I'm a Full-stack developer and designer with a lot of experience. I enjoy designing and coding. I focus on writing code that is clear, intelligible, and tested. I enjoy working in and with groups. <br /><br />
+		Hello, my name is Samitha Athurupana, and I was born and raised in Sri Lanka. I'm a final-year Information Technology student at Rathmalana's General Sir John Kotelawala Defence University. I'm a Full-stack developer and designer with a lot of experience. I enjoy designing and coding. I focus on writing code that is clear, intelligible, and tested. I enjoy working in and with groups. <br />
 	    
 🔭 I’m currently working on **["Cloud Based MERN Stack E-commerce Web Store for UI UX Products Resell"]**
 
@@ -58,10 +46,8 @@
 ⚡ Fun fact **[research about new technologies]**
     
 📫 find me on 
-  [Researchgate](https://www.researchgate.net/profile/Samitha-Athurupana)**
-    
-<hr />
-    
+  [Researchgate](https://www.researchgate.net/profile/Samitha-Athurupana)**    
+<hr />    
 <details>
 	<summary><h3 style="display: inline;">What do I know?</h3></summary>
 	<h4 align="center">Languages and Libraries</h4>
@@ -167,3 +153,24 @@
 	</table>
 	</p>
 	<hr />
+
+<details align="center">
+  <summary align="center"><h3 style="display: inline;">What do I do?<h3></summary>
+<div align="center" id="status">
+<a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamithaAthurupana&show_icons=true&count_private=true&bg_color=fbfbfa" /></a> <br/>
+
+  <a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamithaAthurupana&langs_count=8&count_private=true&layout=compact&bg_color=fbfbfa"/></a>
+  <br/>
+<div align="center" id="status">
+<!-- Streak -->
+<h3 align="center">My Github Stats</h3>
+<p align="center">
+<a href="#go-nowhere">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamithaAthurupana&theme=ayu-light&date_format=j%20M%5B%20Y%5D" alt="SamithaAthurupana" />
+</a>
+</p>	
+  <br/>
+</div>
+</details>
+</details>
+</details>
