@@ -17,9 +17,9 @@
 
 
 
-## 🙋‍♂️ About Me
+### About Me
 
-- 🔭 I’m currently working on **["Cloud Based MERN Stack E-commerce Web Store for UI UX Products Resell"](https://#/)**
+- 🔭 I’m currently working on **["Cloud Based MERN Stack E-commerce Web Store for UI UX Products Resell"]**
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
@@ -30,10 +30,10 @@
 - 📫 How to reach me **samithaathurupana1998@gmail.com**
 
 - ⚡ Fun fact **[research about new technologies]**
-📫 find me on 
+- 📫 find me on 
   [Researchgate](https://www.researchgate.net/profile/Samitha-Athurupana)**
 
-## 🚀 Languages and Tools:
+### Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -57,26 +57,22 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamithaAthurupana&bg_color=f0f5e6)](https://git.io/streak-stats)
 
-## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamithaAthurupana&show_icons=true&count_private=true&bg_color=f0f5e6" /></a>
+### My Github Stats
+
+[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=SamithaAthurupana&row=1&column=3)](https://git.io/streak-stats)<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamithaAthurupana&bg_color=f0f5e6)](https://git.io/streak-stats)  <br/>
+
+<a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamithaAthurupana&show_icons=true&count_private=true&bg_color=f0f5e6" /></a> <br/>
+
   <a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamithaAthurupana&langs_count=8&count_private=true&layout=compact&bg_color=f0f5e6"/></a>
   <br/>
 
+<a href="https://github.com/SamithaAthurupana/github-readme-activity-graph"><img alt="SamithaAthurupana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SamithaAthurupana&bg_color=f0f5e6" /></a><br/>
 
-<br/>
-<br/>
-
-
-<a href="https://github.com/SamithaAthurupana/github-readme-activity-graph"><img alt="SamithaAthurupana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SamithaAthurupana&bg_color=f0f5e6" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
+### Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/samithaath/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -86,8 +82,7 @@
 
 </p>
 
-## ❤ Views and Followers
+### ❤ Views and Followers
 <a href="https://github.com/SamithaAthurupana/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SamithaAthurupana">
 </a>
-<a href="https://github.com/SamithaAthurupana?tab=followers"><img src="https://img.shields.io/github/followers/SamithaAthurupana?label=Followers&style=social" alt="GitHub Badge"></a>
