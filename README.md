@@ -6,15 +6,15 @@
 </h3>
 
 <h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://twitter.com/samithaathurup2" align="center" target="blank">
-	<img src="https://img.shields.io/twitter/follow/samithaathurup2?logo=twitter&style=for-the-badge" alt="Samitha_Athurupana" />
-</a>
+<div align="center" id="badges">
+  <a href="https://www.linkedin.com/in/samithaath/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/samithaathurup2">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-<a href="https://www.linkedin.com/in/samithaath/" align="center" target="blank">
-	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="samithaath" />
-</a>
-</p>
 
 
 ## 🙋‍♂️ About Me
@@ -57,21 +57,21 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamithaAthurupana&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamithaAthurupana&bg_color=f0f5e6)](https://git.io/streak-stats)
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamithaAthurupana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
-  <a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamithaAthurupana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0"/></a>
+    <a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamithaAthurupana&show_icons=true&count_private=true&bg_color=f0f5e6" /></a>
+  <a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamithaAthurupana&langs_count=8&count_private=true&layout=compact&bg_color=f0f5e6"/></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
 <br/>
 
-<a href="https://github.com/SamithaAthurupana/github-readme-activity-graph"><img alt="SamithaAthurupana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SamithaAthurupana&bg_color=060A0CD0&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<a href="https://github.com/SamithaAthurupana/github-readme-activity-graph"><img alt="SamithaAthurupana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SamithaAthurupana&bg_color=f0f5e6" /></a>
 
 <br/>
 <br/>
