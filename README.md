@@ -61,9 +61,9 @@
 
 ### My Github Stats
 
-[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=SamithaAthurupana&row=1&column=3)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=SamithaAthurupana&row=1&column=3&theme=oldie)](https://git.io/streak-stats)<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamithaAthurupana&bg_color=f0f5e6)](https://git.io/streak-stats)  <br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamithaAthurupana&show_icons=true&count_private=true&theme=tokyonight_duo)](https://git.io/streak-stats)  <br/>
 
 <a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamithaAthurupana&show_icons=true&count_private=true&bg_color=f0f5e6" /></a> <br/>
 
