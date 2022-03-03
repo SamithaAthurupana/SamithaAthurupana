@@ -1,7 +1,7 @@
 <p align="center"><img align="center" src="https://github.com/SamithaAthurupana/SamithaAthurupana/blob/master/Navy%20And%20Turquoise%20Modern%20Fashion%20Medium%20Banner%20Landscape%20(4).png?raw=true" alt="Krish" /></p>
 
 <h3 align="center">
-  Welcome to Samitha's profile!..
+  Connect with Me!..
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -21,11 +21,15 @@
 </a>
 </p>
 </div>
-<div align="center" id="views">	
-<h3 align="center">Views and Followerse</h3>
-<a href="https://github.com/SamithaAthurupana/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SamithaAthurupana">
-</a>	
+<div align="center" id="status">
+<!-- Streak -->
+<h3 align="center">Streak</h3>
+<p align="center">
+<a href="#go-nowhere">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamithaAthurupana&theme=ayu-light&date_format=j%20M%5B%20Y%5D" alt="SamithaAthurupana" />
+</a>
+</p>	
+  <br/>
 </div>
 <hr />
 <details align="center">
@@ -160,15 +164,6 @@
 <a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamithaAthurupana&show_icons=true&count_private=true&bg_color=fbfbfa" /></a> <br/>
 
   <a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamithaAthurupana&langs_count=8&count_private=true&layout=compact&bg_color=fbfbfa"/></a>
-  <br/>
-<div align="center" id="status">
-<!-- Streak -->
-<h3 align="center">My Github Stats</h3>
-<p align="center">
-<a href="#go-nowhere">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamithaAthurupana&theme=ayu-light&date_format=j%20M%5B%20Y%5D" alt="SamithaAthurupana" />
-</a>
-</p>	
   <br/>
 </div>
 </details>
