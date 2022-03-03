@@ -8,7 +8,7 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/samithaathurup2" align="center" target="blank">
-	<img src="https://img.shields.io/twitter/follow/samithaathurup2?logo=twitter&style=for-the-badge" alt="Samitha_Athurupana2" />
+	<img src="_" alt="Samitha_Athurupana" />
 </a>
 
 <a href="https://www.linkedin.com/in/samithaath/" align="center" target="blank">
