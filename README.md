@@ -37,7 +37,7 @@
 	<p align="center">
 		Hello, my name is Samitha Athurupana, and I was born and raised in Sri Lanka. I'm a final-year Information Technology student at Rathmalana's General Sir John Kotelawala Defence University. I'm a Full-stack developer and designer with a lot of experience. I enjoy designing and coding. I focus on writing code that is clear, intelligible, and tested. I enjoy working in and with groups. <br />
 	    
-🔭 I’m currently working on **["Cloud Based MERN Stack E-commerce Web Store for UI UX Products Resell "]**
+🔭 I’m currently working on **["Cloud Based MERN Stack E-commerce Web Store for UI UX Products Resell"]**
 
 🌱 I’m currently learning **MERN Stack Development**
 
