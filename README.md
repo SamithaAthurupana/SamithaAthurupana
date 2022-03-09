@@ -161,7 +161,7 @@
 <details align="center">
   <summary align="center"><h3 style="display: inline;">What do I do?<h3></summary>
 <div align="center" id="status">
-<a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Github Stats " src="https://github-readme-stats.vercel.app/api?username=SamithaAthurupana&show_icons=true&count_private=true&bg_color=fbfbfa" /></a> <br/>
+<a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamithaAthurupana&show_icons=true&count_private=true&bg_color=fbfbfa" /></a> <br/>
 
   <a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamithaAthurupana&langs_count=8&count_private=true&layout=compact&bg_color=fbfbfa"/></a>
   <br/>
