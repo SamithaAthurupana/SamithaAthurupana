@@ -1,7 +1,7 @@
 <p align="center"><img align="center" src="https://github.com/SamithaAthurupana/SamithaAthurupana/blob/master/Navy%20And%20Turquoise%20Modern%20Fashion%20Medium%20Banner%20Landscape%20(4).png?raw=true" alt="Krish" /></p>
 
 <h3 align="center">
-  Connect with Me!.
+  Connect with Me!..
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
