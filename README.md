@@ -45,7 +45,7 @@
 
 👨‍💻 All of my projects are available at **[My Portfolio](#)**
 
-📫 How to reach me **samithaathurupana1998@gmail.com **
+📫 How to reach me **samithaathurupana1998@gmail.com**
 
 ⚡ Fun fact **[research about new technologies]**
     
