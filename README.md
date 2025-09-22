@@ -15,14 +15,7 @@
 </div>
 
 </div>
-<div align="center" id="status">
-<!-- Streak -->
-<h3 align="center">Streak</h3>
-<p align="center">
-<a href="#go-nowhere">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamithaAthurupana&theme=ayu-light&date_format=j%20M%5B%20Y%5D" alt="SamithaAthurupana" />
-</a>
-</p>	
+
   <br/>
 </div>
 <hr />
