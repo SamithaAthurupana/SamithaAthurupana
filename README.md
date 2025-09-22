@@ -25,45 +25,11 @@
 ---
 
 <!-- About -->
-<details open align="center">
-  <summary><h3>🙋 About Me</h3></summary>
-  <p align="center">
-    🎓 MSc (Reading) at <b>SLIIT</b> | BSc Hons IT Graduate from <b>KDU</b> <br/>
-    💻 Full-Stack Developer & UI/UX Designer <br/>
-    🤝 Open-Source Contributor | Team Player <br/>
-    🌱 Exploring <b>AI Development & Cloud</b> <br/>
-    ⚡ Passionate about clean code, design systems & new tech 🚀
-  </p>
-</details>
-
----
-
-<!-- Tech Stack -->
-<details open align="center">
-  <summary><h3>🛠️ Tech Stack</h3></summary>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,nodejs,react,nextjs,nestjs,sass,styledcomponents,jest" /><br/>
-    <img src="https://skillicons.dev/icons?i=mongodb,sequelize,figma,vercel,netlify,heroku,prettier,eslint" />
-  </p>
-</details>
-
----
-
-<!-- GitHub Stats -->
-<details open align="center">
-  <summary><h3>📊 GitHub Insights</h3></summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SamithaAthurupana&show_icons=true&theme=radical&hide_border=true" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamithaAthurupana&layout=compact&theme=radical&hide_border=true" height="180" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamithaAthurupana&theme=radical&hide_border=true" height="180" />
-  </p>
-</details>
-
----
-
-<!-- Contribution Snake -->
+<h3 align="center">🙋 About Me</h3>
 <p align="center">
-  <img src="https://github.com/SamithaAthurupana/SamithaAthurupana/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  🎓 MSc (Reading) at <b>SLIIT</b> | BSc Hons IT Graduate from <b>KDU</b> <br/>
+  💻 Full-Stack Developer & UI/UX Designer <br/>
+  🤝 Open-Source Contributor & Team Player <br/>
+  🌱 Exploring <b>AI Development & Cloud</b> <br/>
+  ⚡ Passionate about clean code, design systems & new tech 🚀
 </p>
