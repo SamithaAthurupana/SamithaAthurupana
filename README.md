@@ -1,158 +1,83 @@
-<p align="center"><img align="center" src="https://github.com/SamithaAthurupana/SamithaAthurupana/blob/master/Navy%20And%20Turquoise%20Modern%20Fashion%20Medium%20Banner%20Landscape%20(4).png?raw=true" alt="Krish" /></p>
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/SamithaAthurupana/SamithaAthurupana/blob/master/Navy%20And%20Turquoise%20Modern%20Fashion%20Medium%20Banner%20Landscape%20(4).png?raw=true" alt="Krish Banner" />
+</p>
 
-<h3 align="center">
-  Connect with Me!..
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<!-- Typing Intro -->
+<h1 align="center">
+  Hey there, I'm Samitha Athurupana 👋
+</h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Tech+Explorer+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%92%A1" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+<!-- Connect -->
+<h3 align="center">Connect with Me 🌍</h3>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/samithaath/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/samithaathurup2">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:samithaathurupana1998@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-</div>
+---
 
-  <br/>
-</div>
-<hr />
 <details align="center">
-  <summary align="center"><h3 style="display: inline;">Who am I? <h3></summary>
-	<p align="center">
-		Hello, my name is Samitha Athurupana, and I was born and raised in Sri Lanka. I'm a final-year Information Technology student at Rathmalana's General Sir John Kotelawala Defence University. I'm a Full-stack developer and designer with a lot of experience. I enjoy designing and coding. I focus on writing code that is clear, intelligible, and tested. I enjoy working in and with groups. <br />
-	    
-🔭 I’m currently working on **["Cloud Based MERN Stack E-commerce Web Store for UI UX Products Resell"]**
-
-🌱 I’m currently learning **MERN Stack Development**
-
-👯 I’m looking to collaborate on **OpenSource Projects**
-
-👨‍💻 All of my projects are available at **[My Portfolio](#)**
-
-📫 How to reach me **samithaathurupana1998@gmail.com**
-
-⚡ Fun fact **[research about new technologies]**
+  <summary><h3>🙋 Who am I?</h3></summary>
+  <p align="center">
+    I’m <b>Samitha Athurupana</b> from 🇱🇰 Sri Lanka <br/>
+    🎓 Final-year IT student @ General Sir John Kotelawala Defence University <br/>
+    💻 Full-Stack Developer + Designer <br/>
+    🤝 Open-source contributor & team player <br/><br/>
     
-📫 find me on 
-  [Researchgate](https://www.researchgate.net/profile/Samitha-Athurupana)**    
-<hr />    
-<details>
-	<summary><h3 style="display: inline;">What do I know?</h3></summary>
-	<h4 align="center">Languages and Libraries</h4>
-	<p align="center">
-	<table align="center">
-		<tr align="center">
-			<td align="center" width="96">
-				<img align="center" alt="HTML5" width="30px" src="./icons/languages/html.svg" />
-				<br />HTML
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="CSS3" width="30px" src="./icons/languages/css.svg" />
-				<br />CSS
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="JS" width="30px" src="./icons/languages/javascript-rounded.svg" />
-				<br />JS
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="TS" width="30px" src="./icons/languages/typescript.svg" />
-				<br />TS
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="Sass" width="30px" src="./icons/libraries/sass.svg" />
-				<br />Sass
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="Styled components" width="30px" src="./icons/libraries/styled-components.svg" />
-				<br />Styled
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="Java" width="30px" src="./icons/languages/java.svg" />
-				<br />Java
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="Python" width="30px" src="./icons/languages/python.svg" />
-				<br />Python
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="NodeJS" width="30px" src="./icons/libraries/nodejs.svg" />
-				<br />NodeJS
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="NestJS" width="30px" src="./icons/libraries/nestjs.svg" />
-				<br />NestJS
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="React" width="30px" src="./icons/libraries/react.svg" />
-				<br />React
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="NextJS" width="30px" src="./icons/libraries/next-js.svg" />
-				<br />NextJS
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="Jest" width="30px" src="./icons/libraries/jest.svg" />
-				<br />Jest
-			</td>
-		</tr>
-	</table>
-	</p>
-	<h4 align="center">Tools and other stuff</h4>
-	<p align="center">
-	<table>
-		<tr>
-			<td align="center" width="96">
-				<img align="center" alt="mongodb" width="30px" src="./icons/tools/mongodb.svg" />
-				<br />MongoDB
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="sequelize orm" width="30px" src="./icons/tools/sequelize.svg" />
-				<br />Sequelize
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="auth0" width="30px" src="./icons/tools/auth0.svg" />
-				<br />Auth0
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="figma" width="30px" src="./icons/tools/figma.svg" />
-				<br />Figma
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="heroku" width="30px" src="./icons/tools/heroku.svg" />
-				<br />Heroku
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="netlify" width="30px" src="./icons/tools/netlify.svg" />
-				<br />Netlify
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="vercel" width="30px" src="./icons/tools/vercel.svg" />
-				<br />Vercel
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="prettier" width="30px" src="./icons/tools/prettier.svg" />
-				<br />Prettier
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="eslint" width="30px" src="./icons/tools/eslint.svg" />
-				<br />ESlint
-			</td>
-		</tr>
-	</table>
-	</p>
-	<hr />
+    🔭 Currently working on <b>Cloud Based MERN Stack E-commerce Store (UI/UX Products Resell)</b> <br/>
+    🌱 Learning <b>MERN Stack Development</b> <br/>
+    ⚡ Fun fact: I love researching new technologies 🚀
+  </p>
+</details>
+
+---
 
 <details align="center">
-  <summary align="center"><h3 style="display: inline;">What do I do?<h3></summary>
-<div align="center" id="status">
-<a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamithaAthurupana&show_icons=true&count_private=true&bg_color=fbfbfa" /></a> <br/>
+  <summary><h3>🛠️ Tech Stack</h3></summary>
+  <h4 align="center">Languages & Libraries</h4>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,nodejs,react,nextjs,nestjs,jest,sass,styledcomponents" />
+  </p>
 
-  <a href="https://github.com/SamithaAthurupana/github-readme-stats"><img alt="SamithaAthurupana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamithaAthurupana&langs_count=8&count_private=true&layout=compact&bg_color=fbfbfa"/></a>
-  <br/>
-</div>
+  <h4 align="center">Tools & Platforms</h4>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,sequelize,auth0,figma,heroku,netlify,vercel,prettier,eslint" />
+  </p>
 </details>
+
+---
+
+<details align="center">
+  <summary><h3>📊 GitHub Stats</h3></summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SamithaAthurupana&show_icons=true&theme=tokyonight" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamithaAthurupana&layout=compact&theme=tokyonight" height="180"/>
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamithaAthurupana&theme=tokyonight" height="180"/>
+  </div>
 </details>
+
+---
+
+<details align="center">
+  <summary><h3>⚡ Activity Graph</h3></summary>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamithaAthurupana&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  </p>
 </details>
