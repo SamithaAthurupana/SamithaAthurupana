@@ -35,8 +35,8 @@
     I’m <b>Samitha Athurupana</b> from 🇱🇰 Sri Lanka <br/>
     🎓 MSc reading at SLIIT & BSc Hons IT graduated from KDU <br/>
     💻 Full-Stack Developer + UI UX Designer <br/>
-    🤝 Open-source contributor & Team player <br/><br/>
-    🌱 Learning <b>AI Developments</b> <br/>
+    🤝 Open-source contributor & Team player <br/>
+    🌱 Learning <b>AI Developments</b>
     ⚡ Fun fact: I love researching new technologies 🚀
   </p>
 </details>
