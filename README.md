@@ -33,12 +33,10 @@
   <summary><h3>🙋 Who am I?</h3></summary>
   <p align="center">
     I’m <b>Samitha Athurupana</b> from 🇱🇰 Sri Lanka <br/>
-    🎓 Final-year IT student @ General Sir John Kotelawala Defence University <br/>
-    💻 Full-Stack Developer + Designer <br/>
-    🤝 Open-source contributor & team player <br/><br/>
-    
-    🔭 Currently working on <b>Cloud Based MERN Stack E-commerce Store (UI/UX Products Resell)</b> <br/>
-    🌱 Learning <b>MERN Stack Development</b> <br/>
+    🎓 MSc reading at SLIIT & BSc Hons IT graduated from KDU <br/>
+    💻 Full-Stack Developer + UI UX Designer <br/>
+    🤝 Open-source contributor & Team player <br/><br/>
+    🌱 Learning <b>AI Developments</b> <br/>
     ⚡ Fun fact: I love researching new technologies 🚀
   </p>
 </details>
